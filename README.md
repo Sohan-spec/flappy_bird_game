@@ -54,23 +54,23 @@ SELF 2D/
 
 Player Controller
 
-Physics-based vertical movement
+--Physics-based vertical movement
 
-Input handling for flap mechanics
+--Input handling for flap mechanics
 
 Obstacle Spawner
 
-Procedural pipe generation
+--Procedural pipe generation
 
-Adjustable spawn rate and gap size
+--Adjustable spawn rate and gap size
 
 Score System
 
-Trigger-based scoring
+--Trigger-based scoring
 
-Real-time UI updates
+--Real-time UI updates
 
 Game State Manager
 
-Start, Game Over, and Restart logic
+--Start, Game Over, and Restart logic
 ---
