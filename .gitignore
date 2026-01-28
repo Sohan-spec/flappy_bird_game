@@ -1,0 +1,39 @@
+# =========================
+# UNITY GENERATED FOLDERS
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# =========================
+# IDE / VISUAL STUDIO
+# =========================
+.vs/
+*.csproj
+*.sln
+
+# =========================
+# BUILD OUTPUTS
+# =========================
+[Bb]uild/
+[Bb]uilds/
+*.apk
+*.aab
+*.exe
+*.unitypackage
+
+# =========================
+# OS FILES
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# BACKUPS / TEMP
+# =========================
+*.log
+*.tmp
+*.bak
