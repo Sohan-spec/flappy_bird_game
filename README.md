@@ -39,7 +39,7 @@ SELF 2D/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sohan-spec/AutoVision.git
+   git clone https://github.com/Sohan-spec/flappy_bird_game
 2.Open Unity Hub
 
 3.Click Add Project
